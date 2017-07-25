@@ -1,0 +1,11 @@
+{
+    "pathParameters": {
+        "id": "b97112d0-6f58-11e7-990e-c3f73e4a2830",
+        "companyId": "the-wood-shop"
+    },
+    "requestContext": {
+        "identity": {
+            "cognitoIdentityId": "USER-SUB-1234"
+        }
+    }
+}
